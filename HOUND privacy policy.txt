@@ -1,0 +1,66 @@
+HOUND ONLINE FASHION MARKETPLACE
+Privacy Policy
+
+Last Updated: 01/12/2024
+
+Welcome to HOUND, an online fashion marketplace committed to safeguarding your privacy. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information. By using HOUND, you agree to the terms outlined in this policy.
+
+1. Information We Collect
+
+(a) Telegram User ID: To facilitate account creation and communication, we collect your Telegram user ID.
+
+(b) Delivery Address: When you make a purchase on HOUND, we collect the delivery address you provide. This may include your home address or a designated collection point.
+
+(c) Account Information: When you create an account on HOUND, we collect information such as your name, email address, and TON wallet address (Telegram).
+
+(d) Transaction Information: To facilitate buying and selling on the platform, we collect transaction details, including product listings, purchase history, and payment information associated with your TON wallet.
+
+(e) User-Generated Content: Content you submit on HOUND, such as product listings, reviews, and comments, is collected and may be publicly visible.
+
+(f) Device Information: We collect information about the devices you use to access HOUND, including IP address, browser type, and device identifiers.
+
+2. How We Use Your Information
+
+(a) Transaction Processing: We use your Telegram user ID and delivery address to process transactions, verify payments, and arrange for product delivery.
+
+(b) Communication: We may use your Telegram user ID to facilitate communication within the platform, including order updates and customer support.
+
+(c) Improving Services: Information collected is used to enhance and personalize your experience on HOUND, including recommending products based on your preferences.
+
+(d) Security: Your information is used to detect and prevent fraud, unauthorized access, and other security incidents.
+
+3. Information Sharing
+
+(a) Third-Party Service Providers: We may share your information with third-party service providers to facilitate transactions, analyze data, and improve our services.
+
+(b) Delivery Partners: Your delivery address may be shared with third-party delivery partners to fulfill orders.
+
+(c) Legal Compliance: We may disclose your information to comply with legal obligations, protect our rights, or respond to legal requests.
+
+(d) User Consent: With your consent, we may share your information in ways not otherwise covered by this Privacy Policy.
+
+4. Your Choices
+
+(a) Account Settings: You can review and update your account information, including your delivery address, by accessing your account settings on HOUND.
+
+(b) Marketing Communications: You can opt-out of receiving promotional emails by following the instructions provided in the email.
+
+(c) Access and Deletion: You can request access to or deletion of your personal information by contacting us at [Contact Email].
+
+5. Security
+
+We implement industry-standard security measures to protect your information from unauthorized access, disclosure, alteration, and destruction.
+
+6. Children's Privacy
+
+HOUND is not intended for individuals under the age of 18. We do not knowingly collect personal information from children.
+
+7. Changes to this Privacy Policy
+
+We may update this Privacy Policy to reflect changes in our practices. We will notify you of any material changes by posting the updated policy on HOUND.
+
+8. Contact Information
+
+If you have questions or concerns about our Privacy Policy, please contact us at.
+
+Thank you for trusting HOUND with your information! We are committed to providing a secure and enjoyable platform for your online fashion needs.

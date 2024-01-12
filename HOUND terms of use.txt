@@ -1,0 +1,54 @@
+HOUND ONLINE FASHION MARKETPLACE
+Terms of Use Agreement
+
+Last Updated: 01/12/24
+
+Welcome to HOUND, an online fashion marketplace connecting buyers and private sellers! Before you access or use our platform, please carefully read the following Terms of Use Agreement ("Agreement"). By accessing or using HOUND, you agree to be bound by the terms and conditions outlined in this Agreement. If you do not agree with these terms, please refrain from using our platform.
+
+1. Acceptance of Terms
+
+By using HOUND, you acknowledge that you have read, understood, and agree to comply with the terms and conditions set forth in this Agreement. HOUND reserves the right to update, modify, or replace any part of these Terms of Use without prior notice. It is your responsibility to review this Agreement periodically for changes.
+
+2. Eligibility
+
+You must be at least 18 years old to use HOUND. By accessing or using the platform, you represent and warrant that you are 18 years of age or older and have the legal capacity to enter into this Agreement.
+
+3. Registration and User Account
+
+To access certain features of HOUND, you may be required to create an account. During the registration process, you agree to provide accurate, current, and complete information. You are responsible for maintaining the confidentiality of your account credentials, including your TON wallet address, and for all activities that occur under your account.
+
+4. Use of the Platform
+
+(a) Buying and Selling: HOUND facilitates the buying and selling of fashion items through private sellers. Users may connect their TON wallet (Telegram) to the platform for payment purposes. Your TON wallet address serves as your unique identifier on the marketplace.
+
+(b) Payment: All transactions on HOUND are processed through TON wallets. Users are responsible for ensuring the security and accuracy of their wallet information. HOUND is not liable for any loss resulting from the misuse of wallet information.
+
+(c) Prohibited Activities: Users agree not to engage in any prohibited activities, including but not limited to fraud, unauthorized access, and violation of intellectual property rights. HOUND reserves the right to suspend or terminate accounts involved in such activities.
+
+5. Content
+
+(a) User-Generated Content: Users may post content, such as product listings and reviews. By submitting content on HOUND, you grant HOUND a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, adapt, publish, translate, distribute, and display such content.
+
+(b) Intellectual Property: HOUND's logo, trademarks, and content are protected by intellectual property laws. Users agree not to use, reproduce, or distribute HOUND's intellectual property without prior written consent.
+
+6. Privacy
+
+HOUND's Privacy Policy governs the collection, use, and disclosure of your personal information. By using the platform, you consent to the practices outlined in the Privacy Policy.
+
+7. Termination
+
+HOUND reserves the right to terminate or suspend your account at its discretion, without notice, for any reason, including but not limited to violation of these Terms of Use.
+
+8. Limitation of Liability
+
+HOUND is not liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of the platform.
+
+9. Governing Law
+
+This Agreement is governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of law principles.
+
+10. Contact Information
+
+If you have any questions or concerns regarding these Terms of Use, please contact us at .
+
+Thank you for choosing HOUND! We hope you have an enjoyable experience on our platform.
